@@ -1,4 +1,3 @@
-baseURL = "https://tangotron.com"
+baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Tangotron"
-theme = "airspace-hugo"
+title = "My New Hugo Site"
