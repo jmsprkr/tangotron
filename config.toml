@@ -56,8 +56,8 @@ theme = "airspace-hugo"
 
   [params.slider]
     enable = true
-    title = "A digital marketing &amp; design agency"
-    subtitle = "We love the Web and the work we do.<br/>We work closely with our clients to deliver the best possible solutions for their needs"
+    title = "Digital film and photography agency"
+    subtitle = "We create and edit film and photography<br/>We work closely with our clients to deliver the best possible solutions for their needs"
 
   [params.wrapper]
     enable = true
@@ -76,7 +76,7 @@ theme = "airspace-hugo"
     content = "Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus."
     [params.feature.button]
       caption = "View Works"
-      url = "#"
+      url = "video"
 
   [params.call]
     enable = true
