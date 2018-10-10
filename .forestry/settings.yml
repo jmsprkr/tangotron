@@ -9,8 +9,8 @@ sections:
   label: Pages
   create: all
   match: "*"
-upload_dir: themes/airspace-hugo/static
-public_path: "/img"
+upload_dir: themes/hugo-theme-massively
+public_path: "/themes/hugo-theme-massively/static"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
