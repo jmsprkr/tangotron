@@ -11,3 +11,5 @@ fields:
   label: test2
   config:
     max: '3'
+pages:
+- content/test-page.html
