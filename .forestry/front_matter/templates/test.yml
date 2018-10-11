@@ -6,3 +6,8 @@ fields:
 - type: field_group
   name: test
   label: Test
+- type: blocks
+  name: test2
+  label: test2
+  config:
+    max: '3'
