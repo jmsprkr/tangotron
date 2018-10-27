@@ -9,6 +9,11 @@ sections:
   label: Pages
   create: all
   match: "*"
+- type: directory
+  path: data
+  label: Data
+  create: none
+  match: "**/*.{json,yaml,yml,toml}"
 upload_dir: themes/hugo-theme-massively
 public_path: "/themes/hugo-theme-massively/static"
 front_matter_path: ''
