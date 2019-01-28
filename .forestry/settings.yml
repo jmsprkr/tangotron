@@ -14,10 +14,10 @@ sections:
   label: Data
   create: none
   match: "**/*.{json,yaml,yml,toml}"
-upload_dir: themes/hugo-theme-massively
-public_path: "/themes/hugo-theme-massively/static"
+upload_dir: media
+public_path: "/media"
 front_matter_path: ''
-use_front_matter_path: false
+use_front_matter_path: 
 file_template: ":filename:"
 build:
   preview_command: hugo -E -F -D -b $DEPLOY_URL -d public
