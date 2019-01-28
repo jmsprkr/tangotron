@@ -1,6 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "http://tangotron.com/"
 languageCode = "en-us"
-title = "Meghna | Responsive Multipurpose Parallax HTML5 Template"
+title = "Tangotron"
 theme = "meghna-hugo"
 
 # Menu
@@ -57,7 +57,7 @@ custom_css = ["css/custom.css"]
     enable = true
     bgImage = "images/slider/hero-area.jpg"
     icon = "tf-ion-play"
-    heading = "Experience the new reality"
+    heading = "Welcome to Tangotron"
     content= "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi. At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!"
     btn = true
     btnText="Explore Us"
@@ -97,8 +97,8 @@ custom_css = ["css/custom.css"]
     
     # footer
     [params.footer]
-        copyright = "Themefisher Team"
-        copyrightURL = "http://www.themefisher.com"
+        copyright = "Tangotron"
+        copyrightURL = "https://www.tangotron.com"
 
         # social Icons
         [[params.footer.socialIcon]]
